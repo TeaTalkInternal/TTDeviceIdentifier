@@ -1,0 +1,16 @@
+PODS:
+  - TTDeviceIdentifier (1.0.0)
+
+DEPENDENCIES:
+  - TTDeviceIdentifier (from `../TTDeviceIdentifier`)
+
+EXTERNAL SOURCES:
+  TTDeviceIdentifier:
+    :path: "../TTDeviceIdentifier"
+
+SPEC CHECKSUMS:
+  TTDeviceIdentifier: bc09d8986962aaed45a5ca3f6ad76f7e0c3e5f8d
+
+PODFILE CHECKSUM: ec30c060c775762205508dd1d289a3b0c50cc5b2
+
+COCOAPODS: 1.9.1

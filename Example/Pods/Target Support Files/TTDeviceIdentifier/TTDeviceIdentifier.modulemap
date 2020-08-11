@@ -1,0 +1,6 @@
+framework module TTDeviceIdentifier {
+  umbrella header "TTDeviceIdentifier-umbrella.h"
+
+  export *
+  module * { export * }
+}
